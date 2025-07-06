@@ -1,4 +1,4 @@
-# Statistical Analysis of Salary Disparities Among Early-Career Developers: US vs. Germany
+# Inferential Analysis of Developer Compensation Across Countries
 
 **Author:** Khalil Hammod  
 **Date:** July 2025
