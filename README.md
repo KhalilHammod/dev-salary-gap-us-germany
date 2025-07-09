@@ -5,11 +5,11 @@
 
 ## Project Summary
 
-This project presents a robust, data-driven analysis of salary differences between early-career software developers (ages 18–24) in the United States and Germany, utilizing the 2024 Stack Overflow Developer Survey. The analysis leverages rigorous data cleaning, statistical hypothesis testing, and multivariate regression modeling to quantify and interpret cross-country compensation disparities.
+This project presents a robust, data-driven analysis of salary differences between young developers (ages 18–24) in the United States and Germany, utilizing the 2024 Stack Overflow Developer Survey. The analysis leverages rigorous data cleaning, statistical hypothesis testing, and multivariate regression modeling to quantify and interpret cross-country compensation disparities.
 
 ## Analytical Objectives
 
-- Identify and measure the average salary gap between early-career developers in the US and Germany.
+- Identify and measure the average salary gap between young developers in the US and Germany.
 - Employ inferential statistical methods to assess significance.
 - Control for key confounders, including education level and professional experience, via regression analysis.
 
